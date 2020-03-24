@@ -1,0 +1,59 @@
+.internbackground{
+background-image: url("internbackground.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+max-height: 650px;
+}
+
+.text2{
+font-family: 'Neuton', serif;
+color:white;
+font-size: 60px;
+}
+
+.text1{color:white;
+}
+
+.borderimg{background-repeat: no-repeat;
+background-image: url("border.jpg");
+background-size: stretch;
+background-position: center center;
+height: 44px;
+width: 100%;
+margin-top: 175px;
+}
+
+.border-img{background-repeat: no-repeat;
+background-image: url("triplecrown.png");
+background-size: stretch;
+background-position: center;
+justify-content: center;
+width: 100%;
+padding-left: 50px;
+background-color: white;
+}
+.border3{
+background-color: #d4b8cc;
+font-family: 'Neuton', serif;
+color:black;
+max-height: 400px;
+margin-bottom: 200px
+}
+.p{
+color: black;
+}
+.h2{
+color: black;
+}
+.navlogo{
+max-height: 44px;
+}
+.navbar{
+max-height: 44px;
+}
+.nav-item{
+font-family: 'comfortaa','HelveticaNeue','Helvetica Neue','Helvetica-Neue',Helvetica,Arial,sans-serif;
+text-decoration-color: white;
+}
+.bg-dark {
+background-color: #000000!important;}
